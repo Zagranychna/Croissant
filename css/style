@@ -1,0 +1,18 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 60px;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.link-pages {
+  display: flex;
+  justify-content: space-evenly;
+}
+.site-nav {
+  color: green;
+}
